@@ -1,5 +1,6 @@
 # predicting_cgpa
 
-for Hindu college of engineering students
+This is just for fun!!
 
-enter your sum of marks(main subjects) and cgpa if you want to help in training the model
+For Hindu college of engineering students
+>>Enter your sum of marks(main subjects) and cgpa if you want to help in training the model
